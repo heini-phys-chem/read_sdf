@@ -1,4 +1,8 @@
 # read_sdf
+
+A python script to extract information from .sdf files,
+by Rolling King edited by Heinen Stefan
+
 a python program to extract information out of .sdf files
 
 Syntax is: python sdf_read.py filename.sdf MOLECULE PROP [PROP2...]

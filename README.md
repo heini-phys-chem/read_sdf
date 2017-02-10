@@ -8,7 +8,7 @@ Command line should look like:
 python sdf_read.py <filename>.sdf MOLECULE PROP [PROP2...]
 ```
 ##### MOLECULE 
-Define which molecule or which molecules will be extracted. Possible keywords:
+Defines which molecule or molecules will be extracted. Possible keywords:
 ```
 ALL
 index (1,2...)

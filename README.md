@@ -24,7 +24,22 @@ NAME
 XYZ
 NUM_MOLECULES 
 ```
-or any property in sdf file such as: <br\>
-InstanceId Type InChIKey Synonyms Model GENERIC_NAME PdbId <br\>
-AmbiguousFlag DRUG_GROUPS ResidueNumber SYNONYMS InChI MolecularWeight <br\>
-MissingHeavyAtoms ModifiedDate SMILES ChemCompId DRUGBANK_ID ChainId <br\>
+or any property in sdf file such as:
+* InstanceId
+* Type
+* InChIKey 
+* Model 
+* GENERIC_NAME 
+* PdbId 
+* AmbiguousFlag 
+* DRUG_GROUPS 
+* ResidueNumber 
+* NONYMS 
+* InChI 
+* MolecularWeight 
+* MissingHeavyAtoms 
+* ModifiedDate 
+* SMILES 
+* ChemCompId 
+* DRUGBANK_ID 
+* ChainId 
